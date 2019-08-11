@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Python для лингвистов 2 курс</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <link type="text/css" rel="stylesheet" href="static/css/styles.css" />
+</head>
+<body>
+    <h1 class="page-header">Python для лингвистов 2 курса</h1>
+    <h2 class="schedule-header">Расписание занятий</h2>
+    <div>
+        <script src="http://d3js.org/d3.v3.min.js?v=3.2.8"></script>
+
+        <script type="text/javascript"charset="utf-8">
+            d3.text("schedule.tsv", function(data) {
+                var parsedCSV = d3.tsv.parseRows(data);
+                var html = '<tr style="font-weight: bold;">\n' +
+                    '                <th rowspan="2">N</th>\n' +
+                    '                <th rowspan="2" width="24%">Тема</th>\n' +
+                    '                <th rowspan="2">Конспект</th>\n' +
+                    '                <th colspan="4">Дата занятий</th>\n' +
+                    '                <th rowspan="2">Домашнее задание</th>\n' +
+                    '                <th colspan="4">Дедлайн</th>\n' +
+                    '            </tr>\n' +
+                    '            <tr style="font-weight: bold;">\n' +
+                    '                <th>Группа 1</th>\n' +
+                    '                <th>Группа 2</th>\n' +
+                    '                <th>Группа 3</th>\n' +
+                    '                <th>Группа 4</th>\n' +
+                    '                <th>Группа 1</th>\n' +
+                    '                <th>Группа 2</th>\n' +
+                    '                <th>Группа 3</th>\n' +
+                    '                <th>Группа 4</th>\n' +
+                    '            </tr>';
+                for (var i = 0; i < parsedCSV.length; i++) {
+                    html += '<tr>';
+                    html = html + '<td>' + parsedCSV[i][0] + '</td>';
+                    html = html + '<td>' + parsedCSV[i][1] + '</td>';
+                    html = html + '<td><a class="" href="'+
+                        parsedCSV[i][2] + '">' + parsedCSV[i][3] + '</a></td>';
+                    html = html + '<td>' + parsedCSV[i][4] + '</td>';
+                    html = html + '<td>' + parsedCSV[i][5] + '</td>';
+                    html = html + '<td>' + parsedCSV[i][6] + '</td>';
+                    html = html + '<td>' + parsedCSV[i][7] + '</td>';
+                    html = html + '<td><a class="" href="'+
+                        parsedCSV[i][8] + '">' + parsedCSV[i][9] + '</a></td>';
+                    html = html + '<td>' + parsedCSV[i][10] + '</td>';
+                    html = html + '<td>' + parsedCSV[i][11] + '</td>';
+                    html = html + '<td>' + parsedCSV[i][12] + '</td>';
+                    html = html + '<td>' + parsedCSV[i][13] + '</td>';
+                    html += '</tr>';
+                }
+
+            document.getElementById("demo").innerHTML = html;
+            });
+        </script>
+        <table id="demo" class="table main-table">
+            <tr style="font-weight: bold;">
+                <th rowspan="2">N</th>
+                <th rowspan="2" width="24%">Тема</th>
+                <th rowspan="2">Конспект</th>
+                <th colspan="4">Дата занятий</th>
+                <th rowspan="2">Домашнее задание</th>
+                <th colspan="4">Дедлайн</th>
+            </tr>
+            <tr style="font-weight: bold;">
+                <th>Группа 1</th>
+                <th>Группа 2</th>
+                <th>Группа 3</th>
+                <th>Группа 4</th>
+                <th>Группа 1</th>
+                <th>Группа 2</th>
+                <th>Группа 3</th>
+                <th>Группа 4</th>
+            </tr>
+        </table>
+    </div>
+</body>
+</html>

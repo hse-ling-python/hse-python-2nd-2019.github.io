@@ -1,0 +1,28 @@
+.main-table {
+    border-collapse: collapse;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    margin-right: 10%;
+    margin-left: 10%;
+    width: 80%;
+}
+
+th, td {text-align: left;padding: 8px;}
+tr:nth-child(even){background-color: #f2f2f2}
+th {
+    background-color: #008000;
+    color: white;
+    vertical-align: center;
+}
+
+.page-header {
+    text-align: center;
+    text-transform: uppercase;
+    color: #008000;
+}
+
+.schedule-header {
+    text-align: center;
+    text-transform: uppercase;
+    color: #008000;
+}
