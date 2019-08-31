@@ -1,1 +1,22 @@
-1	Введение	https://github.com/hse-python-2nd-2019/seminars/blob/master/intro/course_intro.ipynb	введение	01.09.19	01.09.19	01.09.19	01.09.19	https://github.com/hse-python-2nd-2019/seminars/blob/master/intro/course_intro.ipynb	ДЗ 1	10.09.19	10.09.19	10.09.19	10.09.19
+номер	название пары	ссылка конспект	имя конспекта	занятие 1 гр	занятие 2 гр	занятие 3 гр	занятие 4 гр	ссылка на дз	имя дз	дедлайн 1гр	дедлайн 2гр	дедлайн 3гр	дедлайн 4гр
+	<b>1 модуль</b>	 	 	 	 	 	 	 	 	 	 	 	 
+1	Вводное занятие	https://github.com/hse-python-2nd-2019/seminars/blob/master/intro/course_intro.ipynb	Вводное занятие	 	 	 	 	 	 	 	 	 	 
+2	Структуры данных	https://github.com/hse-python-2nd-2019/seminars/blob/master/data_structures/data_structures_1.ipynb	Структуры данных	 	 	 	 	 	 	 	 	 	 
+3	JSON	https://github.com/hse-python-2nd-2019/seminars/blob/master/json_data/json_1.ipynb	JSON	 	 	 	 	 	 	 	 	 	 
+4	Морфология	https://github.com/hse-python-2nd-2019/seminars/blob/master/morphology/morphology_1.ipynb	Морфология	 	 	 	 	 	 	 	 	 	 
+5	Визуализация	https://github.com/hse-python-2nd-2019/seminars/blob/master/visualization/visualization_1.ipynb	Визуализация	 	 	 	 	 	 	 	 	 	 
+6	Word2Vec	https://github.com/hse-python-2nd-2019/seminars/blob/master/vector_models/vector_models_1.ipynb	Word2Vec	 	 	 	 	 	 	 	 	 	 
+7	?	 	 	 	 	 	 	 	 	 	 	 	 
+	<b>2 модуль</b>
+8	Базы данных 1	https://github.com/hse-python-2nd-2019/seminars/blob/master/databases/databases_1.ipynb	Базы данных 1	 	 	 	 	 	 	 	 	 	 
+9	Базы данных 2	https://github.com/hse-python-2nd-2019/seminars/blob/master/databases/databases_2.ipynb	Базы данных 2	 	 	 	 	 	 	 	 	 	 
+10	HTML + CSS	https://github.com/hse-python-2nd-2019/seminars/blob/master/html_and_requests/html_1.ipynb	HTML + CSS	 	 	 	 	 	 	 	 	 	 
+11	Requests + парсинг html	https://github.com/hse-python-2nd-2019/seminars/blob/master/html_and_requests/requests_1.ipynb	Requests + парсинг html	 	 	 	 	 	 	 	 	 	 
+12	Краулеры	https://github.com/hse-python-2nd-2019/seminars/blob/master/crawlers/crawlers_1.ipynb	Краулеры	 	 	 	 	 	 	 	 	 	 
+13	?	 	 	 	 	 	 	 	 	 	 	 	 
+14	Flask 1	https://github.com/hse-python-2nd-2019/seminars/blob/master/flask_applications/flask_1.ipynb	Flask 1	 	 	 	 	 	 	 	 	 	 
+15	Веб-формы	https://github.com/hse-python-2nd-2019/seminars/blob/master/html_and_requests/web_forms_1.ipynb	Веб-формы	 	 	 	 	 	 	 	 	 	 
+16	Flask 2	https://github.com/hse-python-2nd-2019/seminars/blob/master/flask_applications/flask_2.ipynb	Flask 2	 	 	 	 	 	 	 	 	 	 
+17	PythonAnyWhere	https://github.com/hse-python-2nd-2019/seminars/blob/master/PAW/pythonanywhere.ipynb	PythonAnyWhere	 	 	 	 	 	 	 	 	 	 
+18	?	 	 	 	 	 	 	 	 	 	 	 	 
+19	Обзор курса	/	Обзор курса	 	 	 	 	 	 	 	 	 	 
