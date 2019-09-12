@@ -26,3 +26,17 @@ th {
     text-transform: uppercase;
     color: #008000;
 }
+
+.information {
+    text-align: center;
+    text-transform: uppercase;
+    color: #008000;
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+.information-one {
+    width: 33%;
+    text-align: center;
+}
