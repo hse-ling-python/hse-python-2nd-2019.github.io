@@ -2,10 +2,10 @@
 	<b>1 модуль</b>	 	 	 	 	 	 	 	 					.
 1	Вводное занятие	https://github.com/hse-python-2nd-2019/seminars/blob/master/intro/course_intro.ipynb	Вводное занятие	13.09	13.09	13.09	13.09	 	 	 	 	 	 	.
 2	Структуры данных	https://github.com/hse-python-2nd-2019/seminars/blob/master/data_structures/data_structures_1.ipynb	Структуры данных	20.09	20.09	20.09	20.09	 	 	 	 	 	 	.
-3	JSON	https://github.com/hse-python-2nd-2019/seminars/blob/master/json_data/json_1.ipynb	JSON	27.09	27.09	?	27.09	https://github.com/hse-python-2nd-2019/homework/blob/master/hw_1_json/hw_1_json.md	ДЗ-1	03.10 23:59	03.10 23:59	?	03.10 23:59	.
-4	Морфология	https://github.com/hse-python-2nd-2019/seminars/blob/master/morphology/morphology_1.ipynb	Морфология	 	 	 	 	 	 	 	 	 	 	.
-5	Визуализация	https://github.com/hse-python-2nd-2019/seminars/blob/master/visualization/visualization_1.ipynb	Визуализация	 	 	 	 	 	 	 	 	 	 	.
-6	Word2Vec	https://github.com/hse-python-2nd-2019/seminars/blob/master/vector_models/vector_models_1.ipynb	Word2Vec	 	 	 	 	 	 	 	 	 	 	.
+3	JSON	https://github.com/hse-python-2nd-2019/seminars/blob/master/json_data/json_1.ipynb	JSON	27.09	27.09	04.10	27.09	https://github.com/hse-python-2nd-2019/homework/blob/master/hw_1_json/hw_1_json.md	ДЗ-1	03.10 23:59	03.10 23:59	10.10 23:59	03.10 23:59	.
+4	Морфология	https://github.com/hse-python-2nd-2019/seminars/blob/master/morphology/morphology_1.ipynb	Морфология	04.10	04.10	11.10	04.10	https://github.com/hse-python-2nd-2019/homework/blob/master/hw_2_morphology_visualization/hw_2_part_1_morph.md	ДЗ-2 Часть 1	10.10 23:59	10.10 23:59	17.10 23:59	10.10 23:59	.
+5	Визуализация	https://github.com/hse-python-2nd-2019/seminars/blob/master/visualization/visualization_1.ipynb	Визуализация	11.10	11.10	18.10	11.10	 	 	 	 	 	 	.
+6	Word2Vec	https://github.com/hse-python-2nd-2019/seminars/blob/master/vector_models/vector_models_1.ipynb	Word2Vec	18.10	18.10	19.10	18.10	 	 	 	 	 	 	.
 7	?	 	 	 	 	 	 	 	 	 	 	 	 	.
 	<b>2 модуль</b>		 	 	 	 	 	 	 	 	 	 	 	.
 8	Базы данных 1	https://github.com/hse-python-2nd-2019/seminars/blob/master/databases/databases_1.ipynb	Базы данных 1	 	 	 	 	 	 	 	 	 	 	.
