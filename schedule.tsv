@@ -1,37 +1,37 @@
-номер	название пары	ссылка конспект	имя конспекта	занятие 1 гр	занятие 2 гр	занятие 3 гр	занятие 4 гр	ссылка на дз	имя дз	дедлайн 1гр	дедлайн 2гр	дедлайн 3гр	дедлайн 4гр	.
-	<b>1 модуль</b>	 	 	 	 	 	 	 	 					.
-1	Вводное занятие	https://github.com/hse-python-2nd-2019/seminars/blob/master/intro/course_intro.ipynb	Вводное занятие	13.09	13.09	13.09	13.09	 	 	 	 	 	 	.
-2	Структуры данных	https://github.com/hse-python-2nd-2019/seminars/blob/master/data_structures/data_structures_1.ipynb	Структуры данных	20.09	20.09	20.09	20.09	 	 	 	 	 	 	.
-3	JSON	https://github.com/hse-python-2nd-2019/seminars/blob/master/json_data/json_1.ipynb	JSON	27.09	27.09	04.10	27.09	https://github.com/hse-python-2nd-2019/homework/blob/master/hw_1_json/hw_1_json.md	ДЗ-1	03.10 23:59	03.10 23:59	10.10 23:59	03.10 23:59	.
-4	Морфология	https://github.com/hse-python-2nd-2019/seminars/blob/master/morphology/morphology_1.ipynb	Морфология	04.10	04.10	11.10	04.10	https://github.com/hse-python-2nd-2019/homework/blob/master/hw_2_morphology_visualization/hw_2_part_1_morph.md	ДЗ-2 ч 1	10.10 23:59	10.10 23:59	17.10 23:59	10.10 23:59	.
-5	Визуализация	https://github.com/hse-python-2nd-2019/seminars/blob/master/visualization/visualization_1.ipynb	Визуализация	11.10	11.10	18.10	11.10	https://github.com/hse-python-2nd-2019/homework/blob/master/hw_2_morphology_visualization/hw_2_part_2_visual.md	ДЗ-2 ч 2	17.10 23:59	17.10 23:59	30.10 23:59	17.10 23:59	.
-6	Word2Vec	https://github.com/hse-python-2nd-2019/seminars/blob/master/vector_models/vector_models_1.ipynb	Word2Vec	18.10	18.10	19.10	18.10	https://github.com/hse-python-2nd-2019/homework/blob/master/hw_3_w2v/hw_3_w2v.md	ДЗ-3	31.10 23:59	31.10 23:59	31.10 23:59	31.10 23:59	.
-7	Git и итоги модуля	https://github.com/hse-python-2nd-2019/seminars/blob/master/finals/1st.ipynb	Git и итоги	18.10	18.10	28.10	18.10	 	 	 	 	 	 	.
-	<b>2 модуль</b>		 			 		 	 	 	 	 	 	.
-8	Базы данных 1	https://github.com/hse-python-2nd-2019/seminars/blob/master/databases/databases_1.ipynb	Базы данных 1	28.10	28.10	28.10	28.10	 			 	 		.
-9	Базы данных 2	https://github.com/hse-python-2nd-2019/seminars/blob/master/databases/databases_2.ipynb	Базы данных 2	01.11	01.11	01.11	01.11	https://github.com/hse-python-2nd-2019/homework/blob/master/hw_4_db_web/hw_4_1_db.md	ДЗ-4 ч 1	09.11 23:59	09.11 23:59	09.11 23:59	09.11 23:59	.
-10	Requests + парсинг html	https://github.com/hse-python-2nd-2019/seminars/blob/master/html_and_requests/requests_1.ipynb	Requests + парсинг html	11.11	11.11	08.11	15.11	https://github.com/hse-python-2nd-2019/homework/blob/master/hw_4_db_web/hw_4_2_requests.md	ДЗ-4 ч 2	16.11 23:59	16.11 23:59	14.11 23:59	20.11 23:59	.
-11	Краулеры	https://github.com/hse-python-2nd-2019/seminars/blob/master/crawlers/crawlers_1.ipynb	Краулеры	15.11	15.11	11.11	18.11	https://github.com/hse-python-2nd-2019/homework/blob/master/hw_4_db_web/hw_4_3_crawlers.md	ДЗ-4 ч 3	28.11 23:59	28.11 23:59	28.11 23:59	01.12 23:59	.
-12	HTML + CSS	https://github.com/hse-python-2nd-2019/seminars/blob/master/html_and_requests/html_css.ipynb	HTML + CSS	18.11	18.11	15.11	22.11	 			 	 		.
-13	Flask 1	https://github.com/hse-python-2nd-2019/seminars/blob/master/flask_applications/flask1.ipynb	Flask 1	25.11	25.11	18.11	25.11							.
-14	Веб-формы	https://github.com/hse-python-2nd-2019/seminars/blob/master/html_and_requests/web_forms_1.ipynb	Веб-формы	29.11	29.11	29.11	29.11	https://github.com/hse-python-2nd-2019/homework/blob/master/hw5_flask.md	ДЗ-5 ч 1	12.12 23:59	12.12 23:59	12.12 23:59	12.12 23:59	.
-15	Flask 2	https://github.com/hse-python-2nd-2019/seminars/blob/master/flask_applications/flask_2.ipynb	Flask 2	2.12	2.12	2.12	2.12	 	 					.
-16	PythonAnyWhere	https://github.com/hse-python-2nd-2019/seminars/blob/master/PAW/pythonanywhere.ipynb	PythonAnyWhere	6.12	6.12	6.12	6.12						.
-17	Графы и DH	https://github.com/hse-python-2nd-2019/seminars/blob/master/dh/dh.ipynb	Графы и DH	9.12	9.12	9.12	9.12	 		 	 	 		.
-18	UDPipe	https://github.com/hse-python-2nd-2019/seminars/blob/master/UDPipe/Udpipe_1.ipynb	UDPipe	13.12	13.12	13.12	13.12	 https://github.com/hse-python-2nd-2019/homework/blob/master/hw5_flask_part2.md 	ДЗ-5 ч 2	19.12 23:59	19.12 23:59	19.12 23:59	19.12 23:59 	 .	 	 		
-19	Обзор курса	/	Обзор курса	20.12	20.12	20.12	20.12	 	 	 	 	 	 	.
-	<b>4 модуль</b>	 	 	 	 	 	 	 	 					.
-20	VK API 1	https://github.com/hse-python-2nd-2019/seminars/blob/master/different_api/PP_VK_API(1).ipynb	VK API 1	13.04	13.04										.
+номер	название пары	ссылка конспект	имя конспекта	занятие 1 гр	занятие 2 гр	занятие 3 гр	занятие 4 гр	ссылка на дз	имя дз	дедлайн 1гр	дедлайн 2гр	дедлайн 3гр	дедлайн 4гр	.								
+	<b>1 модуль</b>													.								
+1	Вводное занятие	https://github.com/hse-python-2nd-2019/seminars/blob/master/intro/course_intro.ipynb	Вводное занятие	13.09	13.09	13.09	13.09							.								
+2	Структуры данных	https://github.com/hse-python-2nd-2019/seminars/blob/master/data_structures/data_structures_1.ipynb	Структуры данных	20.09	20.09	20.09	20.09							.								
+3	JSON	https://github.com/hse-python-2nd-2019/seminars/blob/master/json_data/json_1.ipynb	JSON	27.09	27.09	04.10	27.09	https://github.com/hse-python-2nd-2019/homework/blob/master/hw_1_json/hw_1_json.md	ДЗ-1	03.10 23:59	03.10 23:59	10.10 23:59	03.10 23:59	.								
+4	Морфология	https://github.com/hse-python-2nd-2019/seminars/blob/master/morphology/morphology_1.ipynb	Морфология	04.10	04.10	11.10	04.10	https://github.com/hse-python-2nd-2019/homework/blob/master/hw_2_morphology_visualization/hw_2_part_1_morph.md	ДЗ-2 ч 1	10.10 23:59	10.10 23:59	17.10 23:59	10.10 23:59	.								
+5	Визуализация	https://github.com/hse-python-2nd-2019/seminars/blob/master/visualization/visualization_1.ipynb	Визуализация	11.10	11.10	18.10	11.10	https://github.com/hse-python-2nd-2019/homework/blob/master/hw_2_morphology_visualization/hw_2_part_2_visual.md	ДЗ-2 ч 2	17.10 23:59	17.10 23:59	30.10 23:59	17.10 23:59	.								
+6	Word2Vec	https://github.com/hse-python-2nd-2019/seminars/blob/master/vector_models/vector_models_1.ipynb	Word2Vec	18.10	18.10	19.10	18.10	https://github.com/hse-python-2nd-2019/homework/blob/master/hw_3_w2v/hw_3_w2v.md	ДЗ-3	31.10 23:59	31.10 23:59	31.10 23:59	31.10 23:59	.								
+7	Git и итоги модуля	https://github.com/hse-python-2nd-2019/seminars/blob/master/finals/1st.ipynb	Git и итоги	18.10	18.10	28.10	18.10							.								
+	<b>2 модуль</b>													.								
+8	Базы данных 1	https://github.com/hse-python-2nd-2019/seminars/blob/master/databases/databases_1.ipynb	Базы данных 1	28.10	28.10	28.10	28.10							.								
+9	Базы данных 2	https://github.com/hse-python-2nd-2019/seminars/blob/master/databases/databases_2.ipynb	Базы данных 2	01.11	01.11	01.11	01.11	https://github.com/hse-python-2nd-2019/homework/blob/master/hw_4_db_web/hw_4_1_db.md	ДЗ-4 ч 1	09.11 23:59	09.11 23:59	09.11 23:59	09.11 23:59	.								
+10	Requests + парсинг html	https://github.com/hse-python-2nd-2019/seminars/blob/master/html_and_requests/requests_1.ipynb	Requests + парсинг html	11.11	11.11	08.11	15.11	https://github.com/hse-python-2nd-2019/homework/blob/master/hw_4_db_web/hw_4_2_requests.md	ДЗ-4 ч 2	16.11 23:59	16.11 23:59	14.11 23:59	20.11 23:59	.								
+11	Краулеры	https://github.com/hse-python-2nd-2019/seminars/blob/master/crawlers/crawlers_1.ipynb	Краулеры	15.11	15.11	11.11	18.11	https://github.com/hse-python-2nd-2019/homework/blob/master/hw_4_db_web/hw_4_3_crawlers.md	ДЗ-4 ч 3	28.11 23:59	28.11 23:59	28.11 23:59	01.12 23:59	.								
+12	HTML + CSS	https://github.com/hse-python-2nd-2019/seminars/blob/master/html_and_requests/html_css.ipynb	HTML + CSS	18.11	18.11	15.11	22.11							.								
+13	Flask 1	https://github.com/hse-python-2nd-2019/seminars/blob/master/flask_applications/flask1.ipynb	Flask 1	25.11	25.11	18.11	25.11							.								
+14	Веб-формы	https://github.com/hse-python-2nd-2019/seminars/blob/master/html_and_requests/web_forms_1.ipynb	Веб-формы	29.11	29.11	29.11	29.11	https://github.com/hse-python-2nd-2019/homework/blob/master/hw5_flask.md	ДЗ-5 ч 1	12.12 23:59	12.12 23:59	12.12 23:59	12.12 23:59	.								
+15	Flask 2	https://github.com/hse-python-2nd-2019/seminars/blob/master/flask_applications/flask_2.ipynb	Flask 2	2.12	2.12	2.12	2.12							.								
+16	PythonAnyWhere	https://github.com/hse-python-2nd-2019/seminars/blob/master/PAW/pythonanywhere.ipynb	PythonAnyWhere	6.12	6.12	6.12	6.12						.									
+17	Графы и DH	https://github.com/hse-python-2nd-2019/seminars/blob/master/dh/dh.ipynb	Графы и DH	9.12	9.12	9.12	9.12							.								
+18	UDPipe	https://github.com/hse-python-2nd-2019/seminars/blob/master/UDPipe/Udpipe_1.ipynb	UDPipe	13.12	13.12	13.12	13.12	https://github.com/hse-python-2nd-2019/homework/blob/master/hw5_flask_part2.md	ДЗ-5 ч 2	19.12 23:59	19.12 23:59	19.12 23:59	19.12 23:59	.								
+19	Обзор курса	/	Обзор курса	20.12	20.12	20.12	20.12							.								
+	<b>4 модуль</b>													.								
+20	VK API 1	https://github.com/hse-python-2nd-2019/seminars/blob/master/different_api/PP_VK_API(1).ipynb	VK API 1	13.04	13.04										.							
 21	VK API 2	https://github.com/hse-python-2nd-2019/seminars/blob/master/different_api/PP_VK_API_Examples.ipynb	VK API 2	14.04	14.04	14.04	13.04	https://github.com/hse-python-2nd-2019/homework/blob/master/hw6/hw6-1.md	ДЗ-6 ч 1	21.04 23:59	21.04 23:59	21.04 23:59	21.04 23:59									.
-22	YouTube API	https://github.com/hse-python-2nd-2019/seminars/blob/master/different_api/youtube_api.ipynb	YouTube API	20.04	20.04													.
+22	YouTube API	https://github.com/hse-python-2nd-2019/seminars/blob/master/different_api/youtube_api.ipynb	YouTube API	20.04	20.04													.				
 23	Telegram Bot	https://github.com/hse-python-2nd-2019/seminars/blob/master/different_api/telegram_bot_sem/Telegram_API.ipynb	Telegram Bot	21.04	21.04			https://github.com/hse-python-2nd-2019/homework/blob/master/hw6/hw6-2.md	ДЗ-6 ч 2	29.04 23:59	29.04 23:59	29.04 23:59	29.04 23:59									.
-24	Telegram Bot	https://github.com/hse-python-2nd-2019/seminars/blob/master/different_api/telegram_bot_sem/Telegram_API.ipynb	Telegram Bot	27.04	27.04											.
-25	VK Bot	https://github.com/hse-python-2nd-2019/seminars/blob/master/vk_bot/vk_bot_jupyter.ipynb	VK Bot	28.04	28.04												.
-26	Хакатон			15.05	15.05	15.05	15.05						.
-27	Хакатон			15.05	15.05	15.05	15.05						.
-28	Хакатон			15.05	15.05	15.05	15.05						.
-29	Хакатон			15.05	15.05	15.05	15.05						.
-30	Проекты-консультация			18.05	18.05												.
-31	Проекты-консультация			19.05	19.05												.
-32	Проекты-обсуждение результатов												.
-33	Проекты-обсуждение результатов												.
+24	Telegram Bot	https://github.com/hse-python-2nd-2019/seminars/blob/master/different_api/telegram_bot_sem/Telegram_API.ipynb	Telegram Bot	27.04	27.04		29.05									.						
+25	VK Bot	https://github.com/hse-python-2nd-2019/seminars/blob/master/vk_bot/vk_bot_jupyter.ipynb	VK Bot	28.04	28.04												.					
+26	Хакатон			15.05	15.05	15.05	15.05						.									
+27	Хакатон			15.05	15.05	15.05	15.05						.									
+28	Хакатон			15.05	15.05	15.05	15.05						.									
+29	Хакатон			15.05	15.05	15.05	15.05						.									
+30	Визуализация	https://github.com/hse-python-2nd-2019/seminars/blob/master/visualization/visualization_1.ipynb		18.05	18.05		19.05										.					
+31	Проекты-консультация			19.05	19.05		05.06										.					
+32	Проекты-обсуждение результатов						08.06						.									
+33	Проекты-обсуждение результатов						08.06						.									
